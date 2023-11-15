@@ -162,7 +162,7 @@ namespace ClienteV3
 
             if (conectado == 0)
             {
-                IPAddress direc = IPAddress.Parse("10.4.119.5");
+                IPAddress direc = IPAddress.Parse("192.168.56.101");
                 IPEndPoint ipep = new IPEndPoint(direc, 50055);
 
                 this.server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
