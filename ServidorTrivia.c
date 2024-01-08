@@ -1177,7 +1177,7 @@ int *AtenderCliente(void *socket){
 	
 	//Datos de este cliente
 	char nombre[25];
-	char contrasenya[20];
+	char password[20];
 	
 	//Variable para saber si se tiene que desconectar
 	int terminar = 0;
@@ -1246,9 +1246,9 @@ int *AtenderCliente(void *socket){
 				p = strtok(NULL,"/");
 				strcpy(nombre,p);
 				p = strtok(NULL,"/");
-				strcpy(contrasenya,p);
+				strcpy(password,p);
 				
-				int res = InicioSesion(nombre,contrasenya);
+				int res = InicioSesion(nombre,password);
 				
 				sprintf(buff2,"1/%d", res);
 				

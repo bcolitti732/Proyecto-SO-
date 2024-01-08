@@ -118,3 +118,17 @@ C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.FormInv.resources
 C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.FormPregunta.resources
 C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.FormConsultas.resources
 C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.FormJuego.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\bin\Debug\Trivial.exe.config
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\bin\Debug\Trivial.exe
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\bin\Debug\Trivial.pdb
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.FormPrincipal.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.FormInv.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.FormPregunta.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.FormConsultas.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.FormJuego.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.exe
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.pdb

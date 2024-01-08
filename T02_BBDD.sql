@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS T1_BBDD;
-CREATE DATABASE T1_BBDD;
-USE T1_BBDD;
+DROP DATABASE IF EXISTS T02_BBDD;
+CREATE DATABASE T02_BBDD;
+USE T02_BBDD;
 
 CREATE TABLE jugadores (
 	id INT not NULL, 
@@ -28,7 +28,7 @@ CREATE TABLE registro (
 
 INSERT INTO jugadores VALUES (1, 'Bruno', 'dios','bruno.colitti@estudiantat.upc.edu');
 INSERT INTO jugadores VALUES (2, 'Bru', 'jefe','bru@gmail.com');
-INSERT INTO jugadores VALUES (3, 'Antnoia', 'mimara','a.gallardo@upc.edu');
+INSERT INTO jugadores VALUES (3, 'Antonia', 'mimara','a.gallardo@upc.edu');
 INSERT INTO jugadores VALUES (4, 'Miguel', 'mimara2','miguel.valero@upc.edu');
 
 INSERT INTO partidas VALUES (1, '5/01/2024', 'Bruno',900);
